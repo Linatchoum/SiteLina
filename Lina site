@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<head>
+	<title>Lina Astier</title>
+	<meta charset="utf-8">
+	<meta name="Lina Astier" content="Lina Astier">
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+	<!-- Google Font -->
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Clicker+Script" />
+  <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
+
+	<!-- Fontawesome icons -->
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+	<!-- Ma feuille de style -->
+	<link rel="stylesheet" type="text/css" href="css/Lina.css">
+</head>
+
+<body>
+
+<div class="heading">
+
+<!-- Barre de navigation logo -->
+<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">
+        <img alt="Brand" src="http://www.librarything.com/pics/LT_logo_50.jpg">
+      </a>
+    </div>
+  </div>
+</nav>
+
+<!-- Titre -->
+<h1>Lina Astier</h1>
+</div><br>
+
+
+<!-- 6 colonnes -->
+<div class="3colonnes"><br><br>
+<div class="row">
+  <div class="col-xs-12 col-md-3"></div>
+  <div class="col-xs-12 col-md-2">
+  	<a href="https://twitter.com/LinaAstier" target="_blank"><i class="fa fa-twitter fa-2x"></i></a><br>
+  		Me suivre</div>
+  <div class="col-xs-12 col-md-2">
+  	<a href ="https://www.linkedin.com/in/linaastier" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a><br>
+  		Me connaître</div>
+  <div class="col-xs-12 col-md-2">
+  	<a href =mailto:lina.astier@gmail.com><i class="fa fa-envelope fa-2x"></i></a><br>
+		Me contacter</div>
+</div><br><br><br>
+<center><img src="http://img4.hostingpics.net/pics/934906Linaphoto.png" height="200px" class="photo"></center>
+<br><br><br><br>
+
+</div>
+
+<!-- Le blabla -->
+<div class="blabla">
+
+
+<table width="40%" align="center">
+<tr><td class="h2">
+En quelques mots...</tr></td>
+<tr><td class="description">
+• Etudiante à l'ESSEC Business School, promo 2015<br>
+ • MSc in Management, programme Grande Ecole<br>
+ • Passionnée d'innovation, de musique, et de voyages<br>
+</tr></td></table></div>
+
+</div>
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</body>
+</html>

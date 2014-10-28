@@ -1,0 +1,96 @@
+.heading{
+	background-image: url(http://www.allo-image.net/stockimg/upload/14213456955027a7af480348624_crumpled_white_paper_texture_by_melemel.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top right;
+	background-attachment: fixed;
+	height:600px;
+}
+
+
+.navbar-default {
+  background-color: rgba(0, 0, 0, 0.4);
+  border: none;
+}
+
+
+h1{
+		padding-top: 150px;
+		font-size: 10em;
+		text-align: center;
+		font-family:'Clicker Script', Helvetica, Sans-serif;
+		-webkit-transform: translateZ(0);
+}
+
+
+.col-xs-12{
+	text-align: center;
+	font-size: 2em;
+	font-family:'Clicker Script', Helvetica, Sans-serif;
+
+}
+
+.col-md-2{
+	text-align: center
+	font-size:2em;
+	font-family:'Clicker Script', Helvetica, Sans-serif;
+
+}
+
+.photo:hover{
+	-webkit-transform: rotate(-10deg);
+     -moz-transform: rotate(-10deg);
+       -o-transform: rotate(-10deg);
+      -ms-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+    -webkit-filter: brightness(1.1);
+}
+
+table{
+	text-align: center;
+}
+
+.h2{
+	text-align:center;
+	font-family: 'Clicker Script',Helvetica, Sans-serif;
+	padding: 10px 10px 10px 10px;
+	background-color: rgba(255,255,255,0.6);
+	}
+
+.h2:hover{
+	background-color: rgba(255,255,255,0.7);
+}
+
+.description{
+	text-align: center;
+	font-family:'Yanone Kaffeesatz', Helvetica, Sans-serif;
+	font-size: 1.5em;
+	padding: 10px 10px 10px 10px;
+	background-color: rgba(255,255,255,0.4);
+
+}
+
+.description:hover{
+	background-color: rgba(255,255,255,0.5);
+}
+
+.blabla{
+	background-image: url(http://img4.hostingpics.net/pics/480725SITELINAbackground.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position:top right;
+	padding-top:200px;
+	height:650px;
+}
+
+
+a{
+	color: pink;
+}
+
+.3colonnes{
+	text-align: center;
+	padding-top: 110px;
+}
+
+
